@@ -1,2 +1,2 @@
-# bukutamu_laravel12_mongodb8
-Aplikasi buku tamu sederhana menggunakan Laravel 12 dan MongoDB 8
+# bukutamu_laravel11_mongodb8
+Aplikasi buku tamu sederhana menggunakan Laravel 11 dan MongoDB 8
